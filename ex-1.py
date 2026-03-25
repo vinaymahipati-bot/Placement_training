@@ -1,0 +1,5 @@
+print(2+2)
+print("2"+"2")
+val1 = input("Enter first value:")
+val2 = input("Enter second value:")
+print(value1+value2)
